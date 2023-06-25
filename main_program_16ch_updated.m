@@ -54,9 +54,9 @@ for i=1:N_ch
 end
 
 %crop data - change values below! 
- test_start = datetime('2022-11-25 16:00:31'); % first time stamp of data recorded
- sample_start = datetime('2022-11-25 16:01:30'); % desired trial start time => chop off first 5 seconds
- sample_end = datetime('2022-11-25 16:02:30'); % desired trial end time =>15:59:13
+ test_start = datetime(''); % first time stamp of data recorded
+ sample_start = datetime(''); % desired trial start time
+ sample_end = datetime(''); % desired trial end time
  eegdata1 = eegdata((seconds(sample_start - test_start)*fsamp+1):(seconds(sample_end-test_start)*fsamp),:); 
  EEG1 = EEG((seconds(sample_start - test_start)*fsamp+1):(seconds(sample_end-test_start)*fsamp),:); 
  

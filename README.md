@@ -2,8 +2,7 @@ I was fortunate to collaborate with members of the Gorlatova and Big Ideas Labs 
 I focused on the analysis of EEG Signals through MATLAB code, using the EEGlab plugin developed by the SCCN @ UCSD. This repository is for my code during the project. Much of the actual analysis was performed using the EEGlab plugin.
 # Investigation of Thermal Perception and Emotional Response in Augmented Reality using Digital Biomarkers: A Pilot Study
 ## Abstract
-Dialectical behavior therapy (DBT) is an evidence-based psychother-
-apy that helps patients learn skills to regulate emotions as a central
+Dialectical behavior therapy (DBT) is an evidence-based psychotherapy that helps patients learn skills to regulate emotions as a central
 strategy to improve life functioning. However, DBT skills require
 a long-term and consistent commitment, typically to group therapy
 over the course of months. Patients who might benefit may find this

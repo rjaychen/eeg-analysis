@@ -1,9 +1,3 @@
-% Created by Irene Vigue-Guix
-% February 5th 2020 - Barcelona, Catalonia, Spain
-
-% This MATLAB script was created to import OpenBCI datasets, select the EEG
-% data, ands save it as ".mat" files. 
-
 % Modified to allow 16 channels by Ryan Chen, and save files under date
 % name
 % added sample duration feature. 
